@@ -1,0 +1,9 @@
+/* Hidden "People also search for" outline border */
+div.exp-outline {
+	border: none !important;
+}
+
+/* Hidden "People also search for" contents box */
+div[id^="ed_"] {
+	display: none !important;
+}
