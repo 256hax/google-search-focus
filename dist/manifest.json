@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
   "name": "Google Search Focus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Googleの「他の人はこちらも検索」を非表示にします。",
   "icons": {
-    "48": "assets/images/icons/logo.svg",
-    "96": "assets/images/icons/logo.svg"
+    "48": "assets/images/icons/logo-48x48.png",
+    "96": "assets/images/icons/logo-96x96.png"
   },
   "content_scripts": [
     {

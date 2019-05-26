@@ -1,5 +1,7 @@
 # Release
 ## 1. Test
+Go to `about:debugging` in Firefox browser.
+
 [Your first WebExtension > Testing](https://developer.mozilla.org/ja/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension#Testing)
 
 ## 2. Packaging and Lint
@@ -12,7 +14,9 @@ manifest.json should be put in root.
 
 ```
 $ cd dist
+$ rm ../dist.zip
 $ zip -r ../dist.zip ./* -x *.DS_Store
+$ zipinfo ../dist.zip
 ```
 
 ### Lint
