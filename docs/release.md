@@ -1,8 +1,8 @@
 # Release
-## Test
+## 1. Test
 [Your first WebExtension > Testing](https://developer.mozilla.org/ja/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension#Testing)
 
-## Packaging and Lint
+## 2. Packaging and Lint
 ### Packaging
 ```
 $ cd [PJ root directory]
@@ -21,6 +21,9 @@ $ cd [PJ root directory]
 $ addons-linter dist.zip
 ```
 
-## Publish to Firefox Add-ons
-### Submission
+## 3. Publish to Firefox Add-ons
 Go to [ddons.mozilla.org (AMO)](https://addons.mozilla.org/ja/developers/addon/submit/distribution)
+
+## 4. Release to GitHub
+1. Go to [GitHub Releases](https://github.com/256hax/google-search-focus/releases)
+2. Creat a new release. Then upload release zip file.
