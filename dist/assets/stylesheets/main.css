@@ -3,7 +3,18 @@ div.exp-outline {
 	border: none !important;
 }
 
-/* Hidden "People also search for" contents box */
+/*--- Hidden "People also search for" contents box ---*/
+/* Case 1 */
 div[id^="ed_"] {
+	display: none !important;
+}
+
+/* Case 2 */
+.exp-outline + div > div:nth-child(3) {
+  display: none !important;
+}
+
+/* Case 3 */
+div.AUiS2 {
 	display: none !important;
 }
