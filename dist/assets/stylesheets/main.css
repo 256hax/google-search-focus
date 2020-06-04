@@ -1,9 +1,9 @@
-/* Hidden "People also search for" outline border */
+/* Block "People also search for (PASF)" outline border */
 div.exp-outline {
 	border: none !important;
 }
 
-/*--- Hidden "People also search for" contents box ---*/
+/*--- Block PASF contents box for PC ---*/
 /* Case 1 */
 div[id^="ed_"] {
 	display: none !important;
@@ -16,5 +16,10 @@ div[id^="ed_"] {
 
 /* Case 3 */
 div.AUiS2 {
+	display: none !important;
+}
+
+/*--- Block PASF contents box for Smartphones ---*/
+div.clh3Ld {
 	display: none !important;
 }

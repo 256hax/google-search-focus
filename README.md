@@ -13,6 +13,10 @@ CSS Only.
 [Dragon game glass series spear thrones weapon icon](https://www.iconfinder.com/icons/4527381/dragon_game_glass_series_spear_thrones_weapon_icon)
 
 ## CHNAGELOG
+### v1.2.0
+- Feat
+  - Support to Smartphones browsing(only emulator). ブラウザのエミュレーターでスマートフォン表示した場合に対応しました。
+
 ### v1.1.0
 - Fix
   - Fixed for changing Google source. Google側のソースが変更されたため、それに対応しました。
