@@ -19,7 +19,17 @@ div.AUiS2 {
 	display: none !important;
 }
 
+/* Case 4 (Ad area in Top) */
+div[jscontroller="zUPIy"] {
+	display: none !important;
+}
+
 /*--- Block PASF contents box for Smartphones ---*/
 div.clh3Ld {
+	display: none !important;
+}
+
+/* Ad area in Top */
+div[id^="aobm_"] {
 	display: none !important;
 }

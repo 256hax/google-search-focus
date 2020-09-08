@@ -1,8 +1,8 @@
 # Release
 ## 1. Test
-Go to `about:debugging` in Firefox browser.
+Go to `about:debugging` in Firefox browser. Move to "This Firefox" > "Load Temporary Add-ons" then, drag&drop your some files in Firefox Add-ons directory(ex: "manifest.json").
 
-[Your first WebExtension > Testing](https://developer.mozilla.org/ja/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension#Testing)
+More details - [Your first WebExtension > Testing](https://developer.mozilla.org/ja/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension#Testing)
 
 ## 2. Packaging and Lint
 ### Packaging
