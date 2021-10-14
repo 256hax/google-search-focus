@@ -24,6 +24,15 @@ div[jscontroller="zUPIy"] {
 	display: none !important;
 }
 
+/* Case 5 */
+/* Block for following height and transition elements.
+   <div class="tF2Cxc" style="height: 227px; transition: height 300ms ease-in-out 0s;">
+*/
+div.tF2Cxc {
+	height: 100% !important;
+	transition: height 0ms;
+}
+
 /*--- Block PASF contents box for Smartphones ---*/
 div.clh3Ld {
 	display: none !important;

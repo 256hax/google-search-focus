@@ -26,7 +26,7 @@ $ addons-linter dist.zip
 ```
 
 ## 3. Publish to Firefox Add-ons
-Go to [ddons.mozilla.org (AMO)](https://addons.mozilla.org/ja/developers/addon/submit/distribution)
+Go to [ddons.mozilla.org (AMO)](https://addons.mozilla.org/ja/developers/addon/submit/distribution) then, Upload New Version.
 
 ## 4. Release to GitHub
 1. Go to [GitHub Releases](https://github.com/256hax/google-search-focus/releases)
